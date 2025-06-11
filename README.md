@@ -1,12 +1,22 @@
 
-
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cisquinho12) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/micrack12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-miguel-galv%C3%A1n-mu%C3%B1oz-b923a7313/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:francisgalvan@hotmail.es) 
+![Discord](https://img.shields.io/badge/Discord-cisquinho12-%237289DA.svg?logo=discord&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/micrack12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-miguel-galv%C3%A1n-mu%C3%B1oz-b923a7313/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:francisgalvan@hotmail.es) 
 
+
+# 🔤 Programming Languages:
+
+![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)  
+![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)  
+![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)  
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)  
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)  
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)  
+![Kotlin](https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg)  
+![Markdown](https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg)  
 
 # 💻 Tech Stack:
 
@@ -28,8 +38,6 @@
 
 
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=UCM-FDI-DISIA&repo=VeryReal&theme=neon)](https://github.com/UCM-FDI-DISIA/VeryReal)
-
-
 
 ## 📈 Contribution Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CiscoGalvan&theme=github-compact)
