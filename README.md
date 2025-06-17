@@ -1,9 +1,18 @@
+<div align="center">
+
+
+# 😊​ Hi guys my name is Francisco Galvan!
+
+**I'm passionate about programming, video game design, automation, and tool development — and I'm a huge video game enthusiast!**
+</div>
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+- ​​👨‍🎓 I've just finished my Bachelor's Degree in Videogame Development in __Complutense University of Madrid__
+- 💼 I'm currently looking for working options as a __Software Developer__.
+- 🗂️ Visit my portfolio to see what I've worked on: https://ciscogalvan.github.io/
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 <div align="center">
 
@@ -48,7 +57,7 @@
 
 </div>
 
-## 🔝 Top Contributed Repo
+## 🔝 Some Repos
 
 <div align="center">
 
